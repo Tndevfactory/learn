@@ -1,0 +1,6 @@
+ install and run:
+ react-native init shopping
+ cd "C:\Users\barho\Desktop\dev\lab\react_native\shopping" && npx react-native run-android
+
+ yarn global add react-devtools
+ react-devtools
